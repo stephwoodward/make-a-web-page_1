@@ -1,0 +1,17 @@
+	div {
+	color: #D36F0E;
+}
+.description{
+	color:orange;
+}
+body {
+	font-family: "lucida";
+	font-size: 16px;
+	background-color: #E3F5F5
+}
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
